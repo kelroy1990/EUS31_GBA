@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "D:\\Git Polux\\firmware-siro\\tool"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stack": "cpp",
+			"optional": "cpp",
+			"ostream": "cpp",
+			"system_error": "cpp",
+			"array": "cpp",
+			"functional": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp"
+		}
+	}
+}
